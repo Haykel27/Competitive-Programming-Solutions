@@ -1,2 +1,8 @@
 # Competitive-Programming-Solutions
-This repository contains my solutions of competitive programming problems on different platforms.
+The repository contains solutions of problems from:
+  .AtCoder
+  .CodeChef
+  .Codeforces
+  .HackerRank
+  .OnlineJudge
+  .SPOJ
